@@ -1,0 +1,155 @@
+
+/* common style */
+
+.Azeret-Mono{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+.nav-place{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 38px 150px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 30px;
+    color: #0D1321;
+}
+.btn-first{
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+    border-radius: 8px;
+    padding: 17px 24px;
+}
+.txt-center{
+    text-align: center;
+}
+/* header */
+header{
+    margin-bottom: 154px;
+}
+/* hero section */
+.hero-section{
+    background: url(assets/Hero-bg.png);
+}
+.hero-image{
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+}
+.ambition{
+    font-weight: 800;
+    font-size: 48px;
+    color: #0D1321;
+    margin-bottom: 24px;
+}
+.description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D1321;
+    margin: 0 294px;
+}
+.for-contact-btn{
+    display: flex;
+    justify-content: center;
+}
+.contact-btn{
+    font-weight: 600;
+    font-size: 20px;
+    margin: 32px 0 45px 0;
+    padding: 21px 24px;
+    border-radius: 8px;
+    background-color: #0D1321;
+    color: #FFFFFF;
+}
+/* why web devvelopment section */
+.why-web{
+    background-color: rgba(255, 255, 255, 1);
+}
+.section-title{
+    font-weight: 800;
+    font-size: 32px;
+    color: #0D1321;
+    margin: 20px 300px;
+}
+.reson-conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 300px;
+}
+.image-margin{
+    margin-left: 133px;
+}
+.reson-title{
+    font-weight: 700;
+    font-size: 24px;
+    color: #0D1321;
+}
+.reson-describe{
+    font-family: 16;
+    font-weight: 400;
+}
+.middle-image{
+    margin-right: 32px;
+}
+.reson-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+    padding: 12px 20px;
+}
+.reson{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 128px;
+}
+/* inspiration section */
+.jhankar-dadu-photo{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+
+/* my current target section */
+.current-target-skills-conteiner{
+    display: flex;
+    justify-content: center;
+    margin: 88px 300px;
+}
+.c-t-skill{
+    padding-left: 100px;
+}
+.c-t-title{
+    font-weight: 800;
+    font-size: 24px;
+    color: #0D1321;
+}
+.c-t-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D1321;
+}
+.learn-more{
+    color: #0D1321;
+    font-weight: 700;
+}
+/* My Next Target section */
+.n-s-room{
+    display: flex;
+    justify-content: center;
+    margin: 24px 150px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    padding: 40px;
+}
+.n-s-logo{
+    padding: 26px;
+}
