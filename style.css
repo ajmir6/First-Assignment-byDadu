@@ -1,5 +1,8 @@
 
 /* common style */
+html{
+    scroll-behavior: smooth;
+}
 
 .Azeret-Mono{
     font-family: "Open Sans", sans-serif;
